@@ -275,6 +275,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
+- <img src="https://raw.githubusercontent.com/MaksimGalatin/padam-nocturne/main/docs/assets/padam-nocturne-logo-1024.png" height="14"/> [PADAM NOCTURNE](https://github.com/MaksimGalatin/padam-nocturne) - Local sovereign AI agent memory in one SQLite file with prompt-injection quarantine, pre-write secret masking, 4-ring Agentic Shield, hybrid FTS5 + local vector search, and optional AES-256-GCM Arweave anchoring.
 
 <br />
 
